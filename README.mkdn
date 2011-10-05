@@ -9,6 +9,6 @@ Glad you asked. Add your gems to this library and create helper functions.
 
 # Todo
 
-Create more library functions for
-  - Argument checking
-  - Print and logging statements
+Create more library functions for  
+  - Argument checking  
+  - Print and logging statements  
