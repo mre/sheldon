@@ -1,11 +1,7 @@
-# Shelper?
+# Sheldon
 
 That's right!
 My collection of frikkin awesome shell commands found all around the interwebz.
-
-# Great name!
-
-Thanks! It's a combination of shell and helper. Pure brilliance.
 
 # How can I help?
 

@@ -9,7 +9,7 @@
 # TODO:
 # Extend for other Operating Systems.
 
-. shelper-lib.sh
+. lib-sheldon.sh
 
 os=$( get_os )
 if [[ "$os" == "mac" ]]

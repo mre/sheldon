@@ -6,7 +6,7 @@
 # Source:
 # http://hints.macworld.com/article.php?story=20020729090411989
 
-. shelper-lib.sh
+. lib-sheldon.sh
 
 if [[ -z "$1" ]]
 then
