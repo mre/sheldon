@@ -1,0 +1,18 @@
+# Shelper?
+
+That's right!
+My collection of frikkin awesome shell commands found all around the interwebz.
+
+# Great name!
+
+Thanks! It's a combination of shell and helper. Pure brilliance.
+
+# How can I help?
+
+Glad you asked. Add your gems to this library and create helper functions.
+
+# Todo
+
+Create more library functions for
+  - Argument checking
+  - Print and logging statements
