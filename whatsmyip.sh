@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Get public ip from coammandline
+# From: http://www.commandlinefu.com/commands/view/1733/get-own-public-ip-address
 # Usage: ./whatsmyip.sh
 
 . lib-sheldon.sh
